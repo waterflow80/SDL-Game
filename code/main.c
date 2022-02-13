@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"menu.h"
+#include"mainMenu.h"
+#include "utils.h"
 
 
 int main(){
-  printf("hello\n");
+  fullScreenCheck = false; // Full-screen intially disabled
   /*Menu Section*/
   mainMenu();
   printf("bye\n");
