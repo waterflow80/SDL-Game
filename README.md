@@ -1,2 +1,2 @@
-# SDL-Game | Part 1 'Menu' 
+# SDL-Game | Part 1 Menu
 SDL Gui Game with C
